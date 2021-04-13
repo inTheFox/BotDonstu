@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotDonstu", "BotDonstu.csproj", "{C2DD1F35-B63C-4536-B166-88B03D2EB187}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDstu", "..\WebDstu\WebDstu.csproj", "{610C2FF5-1B24-4797-8936-FF7F14AC2190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DD1F35-B63C-4536-B166-88B03D2EB187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DD1F35-B63C-4536-B166-88B03D2EB187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DD1F35-B63C-4536-B166-88B03D2EB187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DD1F35-B63C-4536-B166-88B03D2EB187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610C2FF5-1B24-4797-8936-FF7F14AC2190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610C2FF5-1B24-4797-8936-FF7F14AC2190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610C2FF5-1B24-4797-8936-FF7F14AC2190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610C2FF5-1B24-4797-8936-FF7F14AC2190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF27089A-941B-4E39-8EA0-FBA40C7EF6B5}
+	EndGlobalSection
+EndGlobal
